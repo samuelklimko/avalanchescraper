@@ -1,1 +1,1 @@
-# basescanscraper
+# Avalanche Scraper
